@@ -45,6 +45,10 @@ For alternative installation options and known issues, please refer to the [docu
 
 MVT provides two commands `mvt-ios` and `mvt-android`. [Check out the documentation to learn how to use them!](https://docs.mvt.re/)
 
+### iOS scan (MVT)
+
+For a quick iOS scan guide, see [mvt-ios-quickstart](docs/mvt-ios-quickstart.md).
+
 
 ## License
 
