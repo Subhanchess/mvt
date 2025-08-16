@@ -139,3 +139,10 @@ dmypy.json
 
 # Sublime Text project files
 *.sublime*
+# MVT iOS artifacts
+mvt_out/
+decrypted/
+backup/
+*.ab
+*.tgz
+*.plist
